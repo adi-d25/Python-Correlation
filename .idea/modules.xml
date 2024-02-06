@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PythonCorrelation.iml" filepath="$PROJECT_DIR$/.idea/PythonCorrelation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-Correlation/.idea/Python-Correlation.iml" filepath="$PROJECT_DIR$/../Python-Correlation/.idea/Python-Correlation.iml" />
     </modules>
   </component>
 </project>
